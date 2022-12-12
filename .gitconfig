@@ -1,2 +1,8 @@
 [safe]
 	directory = /usr/local/Homebrew
+[user]
+	name = TripleZ
+	email = me@triplez.cn
+	signingkey = DFBBED65255F4E91
+[commit]
+	gpgsign = true
